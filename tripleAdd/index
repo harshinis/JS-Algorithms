@@ -1,0 +1,14 @@
+Create a function called tripleAdd that is invoked like this
+
+and returns the total of all 3 numbers that are passed.
+How to invoke three functions 3 times ?
+
+We are not invoking function 3 times, we are invoking what is being returned to us and again invoking it 3rd time 
+of what ever is returned after 2nd time
+
+
+Solution:
+tripleAdd function is called curried function;
+Currying of a function is the technique of translating one function that takes multiple arguments into a sequence of 
+functions that each take a single argument.
+
