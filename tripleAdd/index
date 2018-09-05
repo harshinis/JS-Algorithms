@@ -1,5 +1,7 @@
 Create a function called tripleAdd that is invoked like this
 
+tripleAdd(10)(20)(30);
+
 and returns the total of all 3 numbers that are passed.
 How to invoke three functions 3 times ?
 
