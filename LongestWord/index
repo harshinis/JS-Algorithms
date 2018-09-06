@@ -1,0 +1,17 @@
+Find the longest word in the String 
+"The quick brown fox jumped over the lazy dog"
+
+Solution 1 - is easy
+
+Solution 2 - is intermediate Solution
+using reduce function - 
+Syntax:  array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
+total, currentValue - required
+currentIndex, arr - optional
+
+Solution 3 - advanced solution using slice() and splice()
+
+The slice() method returns a shallow copy of a portion of an array into a 
+new array object selected from begin to end (end not included). The original array will not be modified.
+
+The splice() method changes the contents of an array by removing existing elements and/or adding new elements.

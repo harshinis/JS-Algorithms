@@ -1,0 +1,6 @@
+IIFE is an Immediately Invoked Function Expression
+
+is a function that is executed right after its created. Instead of the function having to wait until it's called to 
+be executed, an IIFE is executed immediately.
+
+Main reason is to preserve a private scope. In JS 
