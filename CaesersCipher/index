@@ -1,0 +1,8 @@
+Solution 1 - 
+
+Split the string into Character array. Iterate over each character in the array 
+Convert char to a character code. Check if char lies between A-Z (Return un-converted char)
+else N = ASCII 78, if the character code is less than 78, shift forward 13 places otherwise
+shift the character 13 places backward
+
+
